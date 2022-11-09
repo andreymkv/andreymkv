@@ -38,7 +38,7 @@
 
 e-mail: andreymakarovs@mail.ru
 
-[Github](e-mail: andreymakarovs@mail.ru)
+[Github](github.com/andreymkv)
 
 [linkedin](www.linkedin.com/in/andreymkv)
 
