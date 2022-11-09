@@ -37,5 +37,6 @@
 # Контакты:
 
 e-mail: andreymakarovs@mail.ru
-
+[Github](e-mail: andreymakarovs@mail.ru)
+[linkedin](www.linkedin.com/in/andreymkv))
 [linkedin](www.linkedin.com/in/andreymkv)
