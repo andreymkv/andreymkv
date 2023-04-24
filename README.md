@@ -1,9 +1,8 @@
 ## Превью:
 
-Всем привет! Меня зовут Андрей, работал маркетологом-аналитиком в крупной компании.
-В какое- то время решил, что хочу большего и поставил цель войти в IT индустрию. 
-По совету знакомых начал с лекций Анатолия Карпова про основы статистики на [Stepik.org](https://stepik.org/course/76/syllabus) и с тех пор начался мой путь как дата-аналитика.
-В данное время прохожу полный курс Data-Analytics от [Karpov.Courses](https://karpov.courses/analytics).
+Всем привет!
+
+Я маркетолог-аналитик с опытом работы в крупной аграрной компании, специализирующейся на производстве и сбыту продуктов питания, и сертифицированный дата-аналитик в начале cвоего карьерного пути в IT
 
 
 ## Основные скиллы
@@ -29,9 +28,9 @@
 
 [Алгоритмы и структуры данных на Python. Интерактивный курс](https://gb.ru/certificates/891714)
 
-## В процессе:
+[Karpov.Courses](https://lab.karpov.courses/certificate/57cb6946-a944-440e-a65c-02b9e393ebbb/en/)
 
-[Karpov.Courses](https://karpov.courses/analytics)
+[1C-Bitrix](https://drive.google.com/drive/folders/1-FSMlps8pei9fIETeeZfSgKXWiesXYzX?usp=share_link)
 
 
 # Контакты:
@@ -39,4 +38,6 @@
 e-mail: andreymakarovs@mail.ru
 
 [linkedin](www.linkedin.com/in/andreymkv)
+
+[Telegram](http://t.me/andreymkv)
 
